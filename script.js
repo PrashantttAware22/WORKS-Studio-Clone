@@ -2,7 +2,6 @@ let elems = document.querySelectorAll(".elem");
 let h2 = document.querySelectorAll(".elem h2");
 let page2 = document.querySelector(".page2");
 
-
 Shery.mouseFollower() ;
 Shery.makeMagnet(".magnet") ;
 document.querySelector("footer #back").addEventListener("click" , function() {
