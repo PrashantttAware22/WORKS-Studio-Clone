@@ -4,6 +4,8 @@ let page2 = document.querySelector(".page2");
 
 Shery.mouseFollower() ;
 Shery.makeMagnet(".magnet") ; 
+
+
 document.querySelector("footer #back").addEventListener("click" , function() {
   scroll.scrollTo(0) ; 
 })
